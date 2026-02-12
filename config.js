@@ -24,7 +24,7 @@ const CONFIG = {
         first: {
             text: "Do you Luv me?",                                    // First interaction
             yesBtn: "Ya",                                             // Text for "Yes" button
-            noBtn: "Naa",                                               // Text for "No" button
+            noBtn: "Na",                                               // Text for "No" button
             secretAnswer: "I don't Luv you, I LOVEEE you SEXY! ❤️"           // Secret hover message
         },
         second: {
@@ -35,7 +35,7 @@ const CONFIG = {
         third: {
             text: "Will you be MY Valentine on February 14th, 2026? 🌹", // The big question!
             yesBtn: "Yes Ofc Sexy Handsome Man!",                                             // Text for "Yes" button
-            noBtn: "No isn't and option LOL"                                                 // Text for "No" button
+            noBtn: "No isn't an option LOL"                                                 // Text for "No" button
         }
     },
 
